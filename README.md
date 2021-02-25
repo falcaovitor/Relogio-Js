@@ -4,5 +4,5 @@
  Relógio desenvolvido para praticar data e hora com JavaScript.
 </h3>
 <br/>
-<img align="center" src="https://raw.githubusercontent.com/falcaovitor/Relogio-Js/master/demonstra%C3%A7%C3%A3o.PNG">
+<img align="right" src="https://raw.githubusercontent.com/falcaovitor/Relogio-Js/master/demonstra%C3%A7%C3%A3o.PNG">
 
